@@ -80,6 +80,8 @@
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
       <Value></Value>
       <Value>../../../circuit_playground_test</Value>
+      <Value>C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/k5yxuats.qfg/Micro Platforms/default/debuggers</Value>
+      <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire/utility</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
@@ -122,6 +124,8 @@
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
       <Value></Value>
       <Value>../../../circuit_playground_test</Value>
+      <Value>C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/k5yxuats.qfg/Micro Platforms/default/debuggers</Value>
+      <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire/utility</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
@@ -374,6 +378,8 @@ build.arch=AVR
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
       <Value></Value>
       <Value>../../../circuit_playground_test</Value>
+      <Value>C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/k5yxuats.qfg/Micro Platforms/default/debuggers</Value>
+      <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire/utility</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
@@ -416,6 +422,8 @@ build.arch=AVR
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
       <Value></Value>
       <Value>../../../circuit_playground_test</Value>
+      <Value>C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/k5yxuats.qfg/Micro Platforms/default/debuggers</Value>
+      <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire/utility</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
