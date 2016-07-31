@@ -1,10 +1,12 @@
-#include <Adafruit_CircuitPlayground.h>
+#include <Adafruit_SleepyDog.h>
 #include <FastLED.h>
-#include <Adafruit_SleepyDog_Library/Adafruit_SleepyDog.h>
+#include <Adafruit_CircuitPlayground.h>
+
 #define NUM_LEDS 10
 #define DATA_PIN 17
+
 unsigned long last_start;
-unsigned int new_led_delay = 650;
+unsigned int new_led_delay = 6500/NUM_LEDS;
 unsigned int fade_delay = 50;
 
 CRGB leds[NUM_LEDS];

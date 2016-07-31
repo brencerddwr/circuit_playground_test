@@ -66,17 +66,17 @@
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/variants/circuitplay32u4</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
@@ -110,17 +110,17 @@
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/variants/circuitplay32u4</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
@@ -364,17 +364,17 @@ build.arch=AVR
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/variants/circuitplay32u4</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
@@ -408,17 +408,17 @@ build.arch=AVR
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/variants/circuitplay32u4</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries/Wire</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src</Value>
-      <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
       <Value>C:/Users/Richard/AppData/Local/arduino15/packages/adafruit/hardware/avr/1.4.8/libraries</Value>
+      <Value>D:/Users/Richard/My Documents/Arduino/libraries</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_Circuit_Playground/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/Adafruit_SleepyDog_Library/utility</Value>
       <Value>D:/Users/Richard/My Documents/Arduino/libraries/FastLED/utility</Value>
