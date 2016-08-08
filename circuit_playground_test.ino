@@ -11,6 +11,10 @@ unsigned int fade_delay = 50;
 
 CRGB leds[NUM_LEDS];
 
+// dynamic color temperature code part
+CRGB colorShift;
+
+
 void setup()
 {
 
@@ -42,8 +46,15 @@ void loop()
 	fadeToBlackBy( leds, NUM_LEDS, 10);
 	if (millis()-last_start > new_led_delay)
 	{
-		FastLED.setBrightness(constrain(map (CircuitPlayground.lightSensor(),0,1023,0,255),10,255));
-		byte x = random16(NUM_LEDS);
+	int mappedSensor =	constrain(map (CircuitPlayground.lightSensor(),0,1023,0,255),10,255);
+// disabled dynamic brightness
+//FastLED.setBrightness(mappedSensor);
+
+colorshift = HeatColor(mappedSensor);
+FastLED.setTemperature( colorShift);
+
+		
+byte x = random16(NUM_LEDS);
 		if (!leds[x])
 		{
 			leds[ x ] += CHSV( random8(), random8( 128, 255), 255);
