@@ -50,7 +50,7 @@ void loop()
 // disabled dynamic brightness
 //FastLED.setBrightness(mappedSensor);
 
-colorshift = HeatColor(mappedSensor);
+colorShift = HeatColor(mappedSensor);
 FastLED.setTemperature( colorShift);
 
 		
