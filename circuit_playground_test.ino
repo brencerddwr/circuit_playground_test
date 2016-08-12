@@ -66,7 +66,7 @@ void loop()
 	{
 		int mappedSensor = map (CircuitPlayground.lightSensor(), 0, 1023, 0, 255);
 		int constrainedSensor = constrain(mappedSensor, 10, 255);
-		int mappedTempF = /*constrain(*/map(CircuitPlayground.temperatureF() * 100, tempLow*100, tempHi*100, 0, 240);//, 0, 240);
+		int mappedTempF = map(CircuitPlayground.temperatureF() * 100, tempLow*100, tempHi*100, 0, 240), 0, 240);
 
 		// comment next lint to disable dynamic brightness
 		FastLED.setBrightness(constrainedSensor);
